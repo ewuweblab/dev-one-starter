@@ -3,5 +3,5 @@
 
 /* diagnostic styling */
 * {
-  border: 1px dotted lightgray;
+  outline : 1px solid lightgray;
 }
