@@ -1,0 +1,7 @@
+/* install tailwind */
+@import "tailwindcss";
+
+/* diagnostic styling */
+* {
+  border: 1px dotted lightgray;
+}
