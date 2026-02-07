@@ -1,7 +1,9 @@
-/* install tailwind */
+/* Import TailwindCSS */
 @import "tailwindcss";
 
-/* diagnostic styling */
+/* Diagnostic Styling 
+- Delete when live to world (production phase)
+*/
 * {
   outline : 1px solid lightgray;
 }
